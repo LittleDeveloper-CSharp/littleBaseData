@@ -1,0 +1,6 @@
+C:\Pavel\Code\BaseData\bin\Debug\BaseData.exe.config
+C:\Pavel\Code\BaseData\bin\Debug\BaseData.exe
+C:\Pavel\Code\BaseData\bin\Debug\BaseData.pdb
+C:\Pavel\Code\BaseData\obj\Debug\BaseData.csprojAssemblyReference.cache
+C:\Pavel\Code\BaseData\obj\Debug\BaseData.exe
+C:\Pavel\Code\BaseData\obj\Debug\BaseData.pdb
